@@ -1,0 +1,20 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+
+body {
+    background-image: url('./bg.png');
+}
+
+h1{
+    font-size:2rem;
+    text-align: center;
+    background-color: brown;
+    color: rgb(255, 255, 128);
+}
+h2{
+    font-size:1.5rem;
+}
+
+
