@@ -1,7 +1,0 @@
-This is the test.
-
-This is the text as written in the second commit.
-
-Third comment
-
-Forth comment
